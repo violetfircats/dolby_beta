@@ -32,7 +32,7 @@
 
 [网易云音乐模块内嵌版②](https://www.123pan.com/s/8qHrVv-hk1r) 访问密码：Wp2p
 
-[网易云音乐模块内嵌版制作教程](https://github.com/nining377/dolby_beta/issues/142)
+[网易云音乐模块内嵌版教程](https://github.com/nining377/dolby_beta/issues/142)
 
 ## TODO
 
